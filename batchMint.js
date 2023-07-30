@@ -5,7 +5,7 @@ async function main() {
   // Read the contract ABI from the JSON file
   const contractABI = require("./NFTCollection.json");
 
-  // Replace <contract_address> with the actual contract address
+  // Replace <contract_address> with the actual contract address.
   const contractAddress = "0xc2aA76983F8CD9dD66e7822649CC98C02e7ef7a2";
 
   // Specify the private key of the signer
