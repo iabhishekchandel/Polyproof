@@ -1,7 +1,7 @@
 const { ethers } = require("ethers");
 
 async function main() {
-  // Read the contract ABI from the JSON file
+  //It will read the contract ABI from the JSON file
   const contractABI = require("./NFTCollection.json");
 
   // Replace <contract_address> with the actual contract address
