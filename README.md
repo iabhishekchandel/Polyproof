@@ -1,6 +1,6 @@
 # Project Title
 
-Building with Polygon Bridge
+Polygon Proof of Stake
 
 ## Description
 
