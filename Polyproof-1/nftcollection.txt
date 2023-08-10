@@ -1,0 +1,5 @@
+{"name":"0","description":"This is the first or cover image of Indian NFT collection.","image":"https://gateway.pinata.cloud/ipfs/QmYAxt3nsoB5M5btaGrzLLeCs672DBrqK4np6w4XGBqC8G"}
+{"name":"1","description":"This is a generic image NFT in the Indian NFT collection.","image":"https://gateway.pinata.cloud/ipfs/QmXpZ8g7k5Y34agj5vozFr2DMwv4Wc2iTgEz4iaVLwH1ku"}
+{"name":"2","description":"This is a generic image NFT in the Indian NFT collection.","image":"https://gateway.pinata.cloud/ipfs/QmR6H7yEAq2DzjcBDFeXsMf7rZ5hB7aViWWyCfNpZGDufN"}
+{"name":"3","description":"This is a generic image NFT in the Indian NFT collection.","image":"https://gateway.pinata.cloud/ipfs/QmYAxt3nsoB5M5btaGrzLLeCs672DBrqK4np6w4XGBqC8G"}
+{"name":"4","description":"This is the ultimate image NFT in the Indian NFT collection.","image":"https://gateway.pinata.cloud/ipfs/Qmbw1FtB6bCQL3RJ9chz5LUZ8QCxyDgsyRPtTJbU9WCsx5"}
